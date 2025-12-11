@@ -1,4 +1,0 @@
--- Database backup for my_database
--- Created at: 2025-11-27 14:49:20.908804
--- This is a simulated backup file
--- In production, use: mysqldump -u user -p my_database > backups\my_database_backup_20251127_144918.sql
